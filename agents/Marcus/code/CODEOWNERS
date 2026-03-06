@@ -1,0 +1,13 @@
+# CODEOWNERS
+
+# Backend
+/services/backend/ @Marcus
+
+# Frontend
+/services/frontend/ @Kevin
+
+# Infra
+/infra/ @Noah
+
+# Docs
+/docs/ @Emma
